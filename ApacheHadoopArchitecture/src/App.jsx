@@ -8,9 +8,10 @@ function App() {
         <h3>Members</h3>
         <ul>
           <li>Ayan Saiyed - 219524602</li>
-          <li>Group Member 2</li>
-          <li>Group Member 3</li>
+          <li>Elizabeth Ghreir - 218093443</li>
+          <li>Yuqian Liu - 219599075</li>
           <li>Group Member 4</li>
+          <li>Group Member 5</li>
         </ul>
         <nav>
           <ul
