@@ -10,7 +10,7 @@ function App() {
           <li>Ayan Saiyed - 219524602</li>
           <li>Elizabeth Ghreir - 218093443</li>
           <li>Yuqian Liu - 219599075</li>
-          <li>Group Member 4</li>
+          <li>Kawther Hussein - 219862945</li>
           <li>Group Member 5</li>
         </ul>
         <nav>
