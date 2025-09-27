@@ -11,7 +11,7 @@ function App() {
           <li>Elizabeth Ghreir - 218093443</li>
           <li>Yuqian Liu - 219599075</li>
           <li>Kawther Hussein - 219862945</li>
-          <li>Group Member 5</li>
+          <li>Mhd Ryiad Almohamad Alelaioy - 219894781</li>
         </ul>
         <nav>
           <ul
