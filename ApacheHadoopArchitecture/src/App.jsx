@@ -26,7 +26,7 @@ function App() {
               <a href="">Home</a>
             </li>
             <li>
-              <a href="#tutorials">Tutorials</a>
+              <a href="https://docs.google.com/presentation/d/1qRyzY7-mWz3ZqF0fqglUA3hc0tuYwHXMAR4Rq3E8VkU/edit?usp=sharing">Deliverable 1 Presentation</a>
             </li>
             <li>
               <a href="#documents">Documents</a>
