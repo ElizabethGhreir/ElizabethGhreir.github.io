@@ -25,11 +25,16 @@ function App() {
 
       <section className="deliverable">
         <h2>Deliverable 2</h2>
+        <p><a href="https://docs.google.com/presentation/d/1pAlj7erTIxniFAdIzVKcv9YkdhjQ8Xs1VAJI5Z6p0fM/edit?usp=sharing">Presentation</a></p>
+        <p><a href="#">Report</a></p>
+      </section>
+
+      <section className="deliverable">
+        <h2>Deliverable 3</h2>
         <p><a href="#">Presentation</a></p>
         <p><a href="#">Report</a></p>
       </section>
             
-
     </main>
   );
 }
