@@ -26,7 +26,7 @@ function App() {
       <section className="deliverable">
         <h2>Deliverable 2</h2>
         <p><a href="https://docs.google.com/presentation/d/1pAlj7erTIxniFAdIzVKcv9YkdhjQ8Xs1VAJI5Z6p0fM/edit?usp=sharing">Presentation</a></p>
-        <p><a href="#">Report</a></p>
+        <p><a href="https://docs.google.com/document/d/1wsJkjCcLR1XJ7nvdpZjAulAsMYaNqOsecZbqSdVnLVE/edit?usp=sharing">Report</a></p>
       </section>
 
       <section className="deliverable">
