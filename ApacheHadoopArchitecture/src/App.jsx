@@ -31,7 +31,7 @@ function App() {
 
       <section className="deliverable">
         <h2>Deliverable 3</h2>
-        <p><a href="#">Presentation</a></p>
+        <p><a href="https://docs.google.com/presentation/d/1pl3SGtqPLLoZdZp3ejF8NByK1S_k5vW4wZ5OC7wXtMc/edit?usp=sharing">Presentation</a></p>
         <p><a href="#">Report</a></p>
       </section>
             
